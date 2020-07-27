@@ -12,4 +12,4 @@ Following Lab Work of Microsoft Learning Course( Introduction to Data Analysis u
 8)LAB 8 : Analysing the Multi-Table pivot tables and Data model to perfrom Data Analysis Task.
 
 Data Source:-
-www.edx.org/course/introduction-data-analysis-using-excel-2
+www.edx.org/course/introduction-to-data-analysis-using-excel-2
